@@ -1,0 +1,7 @@
+/* 
+Este es el archivo CSS del componente, lo definido dentro de estos CSS es aplicado sólo 
+al componente al que pertenece, por ende, si módificamos un titulo <h1></h1> y extisten varios
+dentro de todos los HTMLs de otros componnentes, sólo modificaremos el del correspondiente 
+componente.
+Recuerden que se pueden usar más tipos de archivos de estilos, CSS es una de esas opciones.
+*/
